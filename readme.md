@@ -1,8 +1,8 @@
 # Hello, I'm Sewmo ✌️
 ## About:
 Teenager from Romania with interest in low level programming, networking, and Linux.  
-I refrain from utilizing LLMs in my projects. I only use it as a documentation tool.  
-Everything you see in my projects is written by yours truly, including the README markdowns.  
+I refrain from using LLMs to assist me in my projects. I only use it as a documentation tool.  
+Everything in my projects is written by me, including the README markdowns.  
 You can find out more about me here:
 ### [Personal Website](https://sewmo.github.io)
 ## Languages & Frameworks Utilized:
